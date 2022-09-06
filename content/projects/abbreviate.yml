@@ -3,8 +3,8 @@ name: abbreviate
 desc: Shorten your strings using common abbreviations
 site: https://github.com/dnnrly/abbreviate
 tags:
-- go
-- cli
+  - go
+  - cli
 upforgrabs:
   name: help wanted
   link: https://github.com/dnnrly/abbreviate/labels/help%20wanted

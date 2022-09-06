@@ -3,9 +3,9 @@ name: Axelrod-Python
 desc: A research tool to run Iterated Prisoner's Dilemma tournaments.
 site: http://axelrod.readthedocs.io/en/latest/
 tags:
-- oss
-- python
-- gametheory
+  - oss
+  - python
+  - gametheory
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/Axelrod-Python/Axelrod/labels/up-for-grabs

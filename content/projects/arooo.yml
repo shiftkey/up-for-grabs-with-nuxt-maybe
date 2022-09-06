@@ -3,8 +3,8 @@ name: Arooo
 desc: Hackerspace member applications, approval, and management software for Double Union hackerspace
 site: https://github.com/doubleunion/arooo
 tags:
-- ruby
-- rails
+  - ruby
+  - rails
 upforgrabs:
   name: good first issue
   link: https://github.com/doubleunion/arooo/labels/good%20first%20issue

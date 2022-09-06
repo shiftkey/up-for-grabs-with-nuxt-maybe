@@ -5,9 +5,9 @@ desc: >-
   Wikimedia Commons. Initially started by the Wikimedia Foundation, this app is now maintained by volunteers.
 site: https://github.com/commons-app/apps-android-commons
 tags:
-- android
-- java
-- mobile
+  - android
+  - java
+  - mobile
 upforgrabs:
   name: good first issue
   link: https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue

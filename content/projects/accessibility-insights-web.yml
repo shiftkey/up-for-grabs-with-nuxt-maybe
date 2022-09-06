@@ -5,10 +5,10 @@ desc: >-
   the accessibility of web sites and web applications.
 site: https://accessibilityinsights.io
 tags:
-- chrome-extension
-- reactjs
-- typescript
-- accessibility
+  - chrome-extension
+  - reactjs
+  - typescript
+  - accessibility
 upforgrabs:
   name: help wanted
   link: >-

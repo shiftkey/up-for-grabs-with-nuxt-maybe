@@ -3,11 +3,11 @@ name: Microsoft Azure SDK for Python
 desc: This repository contains official Python libraries for Azure services.
 site: https://github.com/Azure/azure-sdk-for-python
 tags:
-- python
-- microsoft
-- azure
-- cloud
-- sdk
+  - python
+  - microsoft
+  - azure
+  - cloud
+  - sdk
 upforgrabs:
   name: help wanted
   link: https://github.com/Azure/azure-sdk-for-python/labels/help%20wanted

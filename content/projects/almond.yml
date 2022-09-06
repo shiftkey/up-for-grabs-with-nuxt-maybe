@@ -3,15 +3,15 @@ name: Almond
 desc: The Open Source, Privacy Preserving Virtual Assistant
 site: https://almond.stanford.edu
 tags:
-- virtual-assistant
-- voice
-- nlp
-- natural-language
-- machine-learning
-- research
-- javascript
-- web
-- node.js
+  - virtual-assistant
+  - voice
+  - nlp
+  - natural-language
+  - machine-learning
+  - research
+  - javascript
+  - web
+  - node.js
 upforgrabs:
   name: good first issue
   link: >-

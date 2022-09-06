@@ -5,11 +5,11 @@ desc: >-
   and utilities.
 site: https://github.com/AlbedoOrg/Albedo
 tags:
-- reflection
-- ".net"
-- patterns
-- abstraction
-- interface
+  - reflection
+  - '.net'
+  - patterns
+  - abstraction
+  - interface
 upforgrabs:
   name: jump in
   link: https://github.com/AlbedoOrg/Albedo/labels/jump%20in
