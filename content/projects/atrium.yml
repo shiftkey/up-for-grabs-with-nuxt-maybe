@@ -1,0 +1,14 @@
+---
+name: Atrium
+desc: A multiplatform assertion library for Kotlin
+site: https://atriumlib.org
+tags:
+- kotlin
+- assertions
+- multiplatform
+upforgrabs:
+  name: good first issue
+  link: https://github.com/robstoll/atrium/labels/good%20first%20issue
+stats:
+  issue-count: 5
+  last-updated: '2022-04-24T20:10:05Z'
